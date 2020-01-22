@@ -43,7 +43,7 @@ file: config.h
 
 
 ## How to setup your CharIoT2 hardware
-1. The CharIoT2 [Datasheet] (https://github.com/akshaymishra/ChariotLRWAN/blob/master/Documents/Datasheet-CharIoT2.1.pdf) has all the details on the device
+1. The CharIoT2 [Datasheet](https://github.com/akshaymishra/ChariotLRWAN/blob/master/Documents/Datasheet-CharIoT2.1.pdf) has all the details on the device
 2. Attach a 5-pin header if your board did not come pre-populated with this header
 3. Attach the power header **J9**. 
 4. **THERE IS NO REVERSE POLARITY PROTECTION ON THIS BOARD**
